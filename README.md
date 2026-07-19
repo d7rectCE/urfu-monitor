@@ -20,8 +20,8 @@
 ## Установка
 
 ```bash
-git clone https://github.com/<ваш-логин>/<репозиторий>.git
-cd <репозиторий>
+git clone https://github.com/d7rectCE/urfu-monitor.git
+cd urfu-monitor
 pip install -r requirements.txt
 python urfu_monitor.py
 ```
